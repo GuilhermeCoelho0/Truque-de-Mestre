@@ -5,7 +5,7 @@
 ### 🌍 Veja o projeto online  
 Você pode visualizar o site diretamente no GitHub Pages pelo link abaixo:  
 
-🔗 **[Acesse o projeto online aqui!](https://zer0coelho.github.io/Truque-de-Mestre/)**  
+🔗 **[Acesse o projeto online aqui!](https://guilhermecoelho0.github.io/Truque-de-Mestre/)**  
 
 ---
 
